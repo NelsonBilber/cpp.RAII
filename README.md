@@ -1,1 +1,3 @@
-# cpp.RAII
+# C++ RAII
+
+ Resource Acquisition Is Initialization 
